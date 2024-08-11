@@ -1,0 +1,20 @@
+{
+  "name": "selene",
+  "version": "2.0.0",
+  "main": "src/_Startup.js",
+  "scripts": {
+    "restart": "node src/out_source/DynoManager.js restart"
+  },
+  "author": {
+    "name": "Luna",
+    "email": "lunardemimoon@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "request": "^2.88.2"
+  }
+}
